@@ -7,7 +7,7 @@ function Footer() {
                 <div className="text-center xl:flex xl:items-center xl:justify-between xl:text-left">
                     <div className="xl:flex xl:items-center xl:justify-start">
 
-                        <p className="mt-5 text-sm text-white xl:ml-6 xl:mt-0">© Developed By Group-03</p>
+                        <p className="mt-5 text-sm text-white xl:ml-6 xl:mt-0">© Developed By CST Group-03</p>
                     </div>
 
                     <div className="items-center mt-8 xl:mt-0 xl:flex xl:justify-end xl:space-x-8">

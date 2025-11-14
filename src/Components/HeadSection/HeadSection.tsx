@@ -1,11 +1,12 @@
 import './headSection.css'
+import headerBg from "../../assets/images/headerBg.jpg";
 
 function HeadSection() {
     return (
         <div
             className=" headSection1 flex items-center justify-center text-center"
             style={{
-                backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../../public/images/headerBg.jpg")`
+                backgroundImage: `linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(${headerBg})`
             }}
         >
             <div>
