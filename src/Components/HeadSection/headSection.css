@@ -1,0 +1,29 @@
+.headSection1 {
+    min-height: 49vh;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.headSection1 p{
+    font-weight: normal;
+    text-align: center;
+    position: relative;
+    top:34%;
+    margin: auto 40px;
+
+}
+.headSection1 #heading {
+    font-weight:normal;
+}
+
+@media screen and (max-width:576px){
+    .headSection1 {
+        min-height: 40vh;
+    }
+
+}
+@media screen and (min-width:2200px){
+    .headSection1 {
+        min-height: 40vh;
+    }
+}
